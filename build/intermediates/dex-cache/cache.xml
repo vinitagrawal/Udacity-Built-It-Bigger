@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/vinitagrawal/Downloads/ud867-master/FinalProject/app/build/intermediates/transforms/instantRunSlicer/free/debug/jars/1/5/main_slice.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0fdd8c6201189756b09a4e2912c0ed13aa8b37b4">
+        <dex dex="/Users/vinitagrawal/Downloads/ud867-master/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/5/main_slice_jar/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinitagrawal/Downloads/ud867-master/FinalProject/app/build/intermediates/transforms/instantRunSlicer/free/debug/jars/1/1a/dependencies.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e096a514d1c0feb85a767853ca074d980603fb68">
+        <dex dex="/Users/vinitagrawal/Downloads/ud867-master/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/1a/dependencies_b21b99cb4f097cde1d43e16875d7834b9b7c512b/classes.dex" />
+    </item>
+
+</items>
